@@ -1,5 +1,5 @@
 //
-//  CodableBundleExntension.swift
+//  CodableBundleExtension.swift
 //  Touchdown
 //
 //  Created by Lexter Tapawan on 06/11/2023.
